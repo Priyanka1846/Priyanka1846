@@ -38,11 +38,11 @@ Flask | Git | GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanka1846&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanka1846&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka1846&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka1846&layout=compact&theme=tokyonight" />
 
 ---
 
