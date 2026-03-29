@@ -40,9 +40,9 @@ Flask | Git | GitHub
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka1846&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanka1846&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka1846&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanka1846&layout=compact&theme=tokyonight" />
 
 ---
 
